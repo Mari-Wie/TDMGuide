@@ -22,3 +22,7 @@ Deutsche Version des Leitfadens für Praktiker
 
 *Preprint_ManagingTDinPractice_ACM_TechDebt2026* --> 
 Vorabdruck der zugrunde liegenden wissenschaftlichen Arbeit, die bei Verweisen auf den TDM-Leitfaden zitiert werden muss, veröffentlicht bei TechDebt 20206 
+
+
+## Funding
+We gratefully acknowledge funding from the German Federal Ministry of Research, Technology, and Space under the grant 16IS24031 (for the Software Campus project SWC-TD).
