@@ -25,4 +25,4 @@ Vorabdruck der zugrunde liegenden wissenschaftlichen Arbeit, die bei Verweisen a
 
 
 # Funding
-We gratefully acknowledge funding from the [German Federal Ministry of Research, Technology, and Space](https://www.bmftr.bund.de/) under the grant 16IS24031 (for the Software Campus project SWC-TD).
+We gratefully acknowledge funding from the German Federal Ministry of Research, Technology, and Space under the grant 16IS24031 (for the Software Campus project SWC-TD).
